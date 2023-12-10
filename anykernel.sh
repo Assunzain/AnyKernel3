@@ -6,7 +6,7 @@
 properties() { '
 kernel.string=Installing Kernel...
 maintainer.string1=AssunZain
-version.kernel=v2.6 NoN-OC KSU STABLE
+version.kernel=v2.6 OC KSU STABLE
 do.devicecheck=1
 do.modules=0
 do.systemless=1
