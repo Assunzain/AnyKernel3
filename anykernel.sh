@@ -6,7 +6,7 @@
 properties() { '
 kernel.string=Installing Kernel...
 maintainer.string1=AssunZain
-version.kernel=v1.0 Pegasus OC BETA
+version.kernel=Perf-Plus-Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -14,7 +14,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=X01AD
 device.name2=X01A
-supported.versions=14
+supported.versions=10-13
 supported.patchlevels=
 '; } # end properties
 
